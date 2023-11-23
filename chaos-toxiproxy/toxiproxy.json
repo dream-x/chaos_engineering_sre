@@ -1,0 +1,8 @@
+[
+    {
+      "name": "redis-stack",
+      "listen": "127.0.0.1:16379",
+      "upstream": "127.0.0.1:6379",
+      "enabled": true
+    }
+]
